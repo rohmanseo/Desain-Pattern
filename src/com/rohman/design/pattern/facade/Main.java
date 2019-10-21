@@ -5,6 +5,8 @@ import com.rohman.design.pattern.facade.facade.PelangganService;
 public class Main {
     public static void main(String[] args) {
 
+        //Idenya adalah dengan menyembunyikan business logic ke sebuah facade, service atau helper
+
 /*        PelangganRepository pelangganRepository = new PelangganRepository();
         AlamatRepository alamatRepository = new AlamatRepository();*/
 
